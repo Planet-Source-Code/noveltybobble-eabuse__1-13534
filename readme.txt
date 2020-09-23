@@ -1,0 +1,1 @@
+Don't forget to register the msslider.ocx file.
